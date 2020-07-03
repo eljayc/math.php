@@ -1,0 +1,27 @@
+# Name: math v0.1 (compressed)
+# Type: Public plugin
+# Conveniently embed simple mathematical formulae into articles
+# Author: Lee J. Cundall
+# URL: http://www.eljaycee.com/
+# Recommended load order: 5
+# .....................................................................
+# This is a plugin for Textpattern CMS - http://textpattern.com/
+# To install: textpattern > admin > plugins
+# Paste the following text into the 'Install plugin' box:
+# .....................................................................
+H4sIAAAAAAAAA21UYY/bNgz9nl9BeIc5wa52nNzlLo6TASuwFUW3FUOBDRiGgyIziTbZFiT5
+Ere4/15SdtJ0Wz44EkU+PvJREnmW5Z9cfpdHtagwWoVlJfyBl4s8Eq0/NJY3GR28Q4S3Cbxu
+61JoHazTs89TaxVbZuR38N7kaXo8HhPUf4tOIiayqVI+f8ijZ7RONTXv5nk0TbKAlOVRiU5a
+ZfxwuCDT66Z+xlph7XUHWG2xBKcqoxGYJdJHSaFh19iq1QJB1b4BYcmq0Q31yKbsS5vSZtfW
+khOE+PGN8N66W7jxB1Xv13E8gU8joN9NpSr0eHoy5AZriOVevdqqOuWwhDbxCtIUfkNNDJ4R
+HFoqC4I3Meia1hIX56lPRHkA4zjYKY19CtnUngpj9HgVTGoHY2Gt6J7+we4JT8p5N44Hv5ho
+BrqTM8mvUJL1cPznJeCvHvVl9B/HUG5/atG3toaoMOB8p3EdE1P/Smi1r3NJAWjjTaGqPTgr
+13EEyb+ak0D0fZS0VmPNnR6fE02SKAah/Tr++VqqH3upYkg3RWo20Wr0MujkOxN0Itmn/H+f
+R40t0Q62+8G202Lvrv144lCbMDJLGsjikG3eNEfWoXUIlBu+/eZxli1WLF5YPqzA6Havap4c
++EAFUylUaV2kFDwaFWaTTeAHpFNkkFtWFKrWedLP0veylY3pQgohacSNqDvq7CXfF93PaVl+
+ZiYos6biQPYjMkQMY3b2DnPUz9YtiLoktfiigvKMcVXVdYrxrzbwk02rS8CSnYmgOZg+O+Ps
+0Q8gpqE70zMq1W6HlmeE/UIi8k2pQ7qRgm/NJGHNQn9mE/hd8Rz11fdXLmRriKvRQnJ0B+/E
+B/yDuFQVYTnYoj8i9kGehITCn0zOJWwCsSK97BOeFcCT4PueXxIXPGUb/hRpWF5BnL7r1h+v
+IC5Bc2J7wK+5Kgem3WrlDlj2ArtDaJmjd04wZdN6kqZwJCtILZxbR1IYF23e//JTkbJ5A6oS
+e4RmF6D/71Gid4DQaiWRnrD+QhGoaZzijib9JQhPYVWGGZ/P8mg+W94tl9v5/W47w8V0uywX
+D4/T+TZ7eJxts8VdtHr5DG/73wO9BQAA
